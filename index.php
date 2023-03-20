@@ -69,7 +69,7 @@
                 <tbody>
 
                     <?php
-                    foreach($hotels as $key => $hotelsClass) { 
+                    foreach($hotels as $hotelsClass) { 
                     ?>
 
                         <tr>
